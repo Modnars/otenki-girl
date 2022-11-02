@@ -2,12 +2,12 @@
 
 <a href="https://www.otenki-girl.online"><img src="https://user-images.githubusercontent.com/22772190/199535109-f49cde5d-aefc-4ca9-8cef-ebe400741ead.jpg" width="260"></a>
 
-[DEMO](https://ivanlulyf.github.io/OtenkiGirl/)
+[_www.otenki-girl.online_](https://www.otenki-girl.online)
 
-[![License](https://img.shields.io/github/license/IvanLuLyf/OtenkiGirl?style=flat-square)](License)
-[![GitHub deployments](https://img.shields.io/github/deployments/IvanLuLyf/OtenkiGirl/github-pages?label=deployment&style=flat-square)](https://ivanlulyf.github.io/OtenkiGirl/)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/IvanLuLyf/OtenkiGirl?style=flat-square)
-![GitHub Repo stars](https://img.shields.io/github/stars/IvanLuLyf/OtenkiGirl?logo=github&style=flat-square)
+[![License](https://img.shields.io/github/license/Modnars/otenki-girl?style=flat-square)](License)
+[![GitHub deployments](https://img.shields.io/github/deployments/Modnars/otenki-girl/github-pages?label=deployment&style=flat-square)](https://www.otenki-girl.online)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Modnars/otenki-girl?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/Modnars/otenki-girl?logo=github&style=flat-square)
 
 </div>
 
