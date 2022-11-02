@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://ivanlulyf.github.io/OtenkiGirl/"><img src="img/top.jpg" width="260"></a>
+<a href="https://www.otenki-girl.online"><img src="https://user-images.githubusercontent.com/22772190/199535109-f49cde5d-aefc-4ca9-8cef-ebe400741ead.jpg" width="260"></a>
 
 [DEMO](https://ivanlulyf.github.io/OtenkiGirl/)
 
